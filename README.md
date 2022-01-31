@@ -1,5 +1,6 @@
 # FREEWAY
 
-Este jogo carrega imagens e sons. Para conseguir funcionar, é necessário um local server.
+Jogo de freeway criado em Javascript utilizando a biblioteca P5.js
 
-Para maiores informações: https://github.com/processing/p5.js/wiki/Local-server
+O jogo pode ser visualizado em:
+https://editor.p5js.org/wagnerkaba/full/yTY5Qj6wM
